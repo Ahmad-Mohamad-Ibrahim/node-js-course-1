@@ -1,0 +1,15 @@
+{
+  "name": "part-3",
+  "version": "1.0.0",
+  "description": "lab 1 part 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "author": "Ahmed Mohamed",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
